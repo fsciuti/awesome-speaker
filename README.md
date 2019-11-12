@@ -1,5 +1,5 @@
 # Awesome Speaker 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![CC BY 4.0][cc-by-shield]][cc-by]
 > A curated list of awesome resource for public speakers, trainers and so on!  
 [View as github page](https://fsciuti.github.io/awesome-speaker)
 
@@ -29,3 +29,14 @@
 
 ## Communities
 *Thematic Communities around the world*
+
+
+---
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg

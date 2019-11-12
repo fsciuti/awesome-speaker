@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Awesome Speaker 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome resource for tech public speakers, trainers and so on! [View as github page](https://fsciuti.github.io/awesome-speaker)
 
-You can use the [editor on GitHub](https://github.com/fsciuti/awesome-speaker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
+- [Awesome Speaker](#awesome-speaker)
+    - [Presentation Editors](#presentation-editors)
+    - [Source Code Tools](#source-code-tools)
+    - [Other Tools](#other-tools)
+    - [Platforms](#platforms)
+    - [Blogs and Tutorials](#blogs-and-tutorials)
+    - [Communities](#communities)    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Presentation Editors
+*Online Editors, Presentation Frameworks, Markdown-driven Slideshows, Slide Tools,...*
 
-### Markdown
+### Source Code Tools
+*Code embedding tools, images generators, ...*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Other Tools
+*Other useful tools for presentations*
 
-```markdown
-Syntax highlighted code block
+### Platforms
+*Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 
-# Header 1
-## Header 2
-### Header 3
+### Blogs and Tutorials
+*News, Tutorials, Tips & Tricks, Best Practices, ...*
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fsciuti/awesome-speaker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Communities
+*Thematic Communities around the world*

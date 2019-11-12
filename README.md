@@ -1,6 +1,6 @@
 # Awesome Speaker 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome resource for tech public speakers, trainers and so on!  
+> A curated list of awesome resource for public speakers, trainers and so on!  
 [View as github page](https://fsciuti.github.io/awesome-speaker)
 
 ## Table of Contents

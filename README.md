@@ -9,20 +9,33 @@
     - [Source Code Tools](#source-code-tools)
     - [Other Tools](#other-tools)
     - [Platforms](#platforms)
+    - [Sharing Platforms](#sharing-platforms)
     - [Blogs and Tutorials](#blogs-and-tutorials)
     - [Communities](#communities)    
 
 ## Presentation Editors
 *Online Editors, Presentation Frameworks, Markdown-driven Slideshows, Slide Tools,...*
+- [Google Slides](https://www.google.it/intl/en/slides/about/) - With Google Slides, you can create, edit, collaborate, and present wherever you are.
+- [MDX-Deck](https://github.com/jxnblk/mdx-deck) - Award-winning React MDX-based presentation decks.
+- [RevealJS](https://revealjs.com/) - A framework for easily creating beautiful presentations using HTML.
+- [Slides.com](https://slides.com/) - Slides is a suite of modern presentation tools, available right from your browser.
 
 ## Source Code Tools
 *Code embedding tools, images generators, ...*
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+- [Code Surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code.
 
 ## Other Tools
 *Other useful tools for presentations*
+- [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
+- [Sessionize](https://sessionize.com/) - The smart way to manage Call for Papers, Speakers and Agenda for your conference. Cloud based, safe and easy.
+
+## Sharing Platforms
+*Social Networks, Sharing Platforms, ...*
+- [SlideShare](https://www.slideshare.net/) - Share what you know and love through presentations, infographics, documents and more.
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*

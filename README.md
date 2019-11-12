@@ -12,20 +12,20 @@
     - [Blogs and Tutorials](#blogs-and-tutorials)
     - [Communities](#communities)    
 
-### Presentation Editors
+## Presentation Editors
 *Online Editors, Presentation Frameworks, Markdown-driven Slideshows, Slide Tools,...*
 
-### Source Code Tools
+## Source Code Tools
 *Code embedding tools, images generators, ...*
 
-### Other Tools
+## Other Tools
 *Other useful tools for presentations*
 
-### Platforms
+## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 
-### Blogs and Tutorials
+## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*
 
-### Communities
+## Communities
 *Thematic Communities around the world*

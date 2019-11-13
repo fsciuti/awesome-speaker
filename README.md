@@ -36,6 +36,7 @@
 ## Sharing Platforms
 *Social Networks, Sharing Platforms, ...*
 - [SlideShare](https://www.slideshare.net/) - Share what you know and love through presentations, infographics, documents and more.
+- [Speaker Deck](https://speakerdeck.com/) - Share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience.
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*

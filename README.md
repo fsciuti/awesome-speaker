@@ -29,6 +29,12 @@
 - [Terminalizer](https://terminalizer.com/) - Record your terminal and generate animated gif images or share a web player
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
 
+## Demo Tools
+*Tools that can be used to show running software during a presentation* 
+- [Katacoda](https://katacoda.com/) - Create online self-paced learning resources in virtual environment to test software. 
+- [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
+- [Asciinema](https://asciinema.org/) - It helps to record terminal sessions and sharing them on the web without screen capture. 
+
 ## Other Tools
 *Other useful tools for presentations*
 - [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.

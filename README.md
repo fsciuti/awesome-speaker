@@ -7,6 +7,7 @@
 - [Awesome Speaker](#awesome-speaker)
     - [Presentation Editors](#presentation-editors)
     - [Source Code Tools](#source-code-tools)
+    - [Demo Tools](#demo-tools)
     - [Other Tools](#other-tools)
     - [Platforms](#platforms)
     - [Sharing Platforms](#sharing-platforms)

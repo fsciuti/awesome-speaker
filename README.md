@@ -20,11 +20,13 @@
 - [MDX-Deck](https://github.com/jxnblk/mdx-deck) - Award-winning React MDX-based presentation decks.
 - [RevealJS](https://revealjs.com/) - A framework for easily creating beautiful presentations using HTML.
 - [Slides.com](https://slides.com/) - Slides is a suite of modern presentation tools, available right from your browser.
+- [patat](https://github.com/jaspervdj/patat) - patat (Presentations Atop The ANSI Terminal) is a small tool written in Haskell that allows you to show presentations using only an ANSI terminal.
 
 ## Source Code Tools
 *Code embedding tools, images generators, ...*
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Code Surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code.
+- [Terminalizer](https://terminalizer.com/) - Record your terminal and generate animated gif images or share a web player
 
 ## Other Tools
 *Other useful tools for presentations*

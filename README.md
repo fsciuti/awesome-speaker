@@ -39,6 +39,7 @@
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 - [Sessionize](https://sessionize.com/) - The smart way to manage Call for Papers, Speakers and Agenda for your conference. Cloud based, safe and easy.
+- [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams.
 
 ## Sharing Platforms
 *Social Networks, Sharing Platforms, ...*
@@ -51,6 +52,7 @@
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*
+- [Speaking.io](https://speaking.io/) - A complete collection of articles and best practices about public speaking.
 
 ## Communities
 *Thematic Communities around the world*

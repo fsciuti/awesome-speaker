@@ -29,9 +29,6 @@
 - [Code Surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code.
 - [Terminalizer](https://terminalizer.com/) - Record your terminal and generate animated gif images or share a web player
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
-
-## Demo Tools
-*Tools that can be used to show running software during a presentation* 
 - [Katacoda](https://katacoda.com/) - Create online self-paced learning resources in virtual environment to test software. 
 - [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
 - [Asciinema](https://asciinema.org/) - It helps to record terminal sessions and sharing them on the web without screen capture. 

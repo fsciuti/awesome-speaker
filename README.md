@@ -52,6 +52,8 @@
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*
+- [Ideas for making better conference talks & conferences](https://jvns.ca/blog/2016/06/06/make-better-conference-talks/) - 
+How to make better conference talks & conferences by Julia Evans
 - [Speaking.io](https://speaking.io/) - A complete collection of articles and best practices about public speaking.
 
 ## Communities

@@ -11,6 +11,7 @@
     - [Platforms](#platforms)
     - [Sharing Platforms](#sharing-platforms)
     - [Learning Platforms](#learning-platforms)
+    - [Streaming and Webinar Platform](#streaming-and-webinar-platform)
     - [Blogs and Tutorials](#blogs-and-tutorials)
     - [Communities](#communities)    
 
@@ -25,21 +26,20 @@
 
 ## Source Code Tools
 *Code embedding tools, images generators, ...*
+- [Asciinema](https://asciinema.org/) - It helps to record terminal sessions and sharing them on the web without screen capture. 
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Code Surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code.
 - [Terminalizer](https://terminalizer.com/) - Record your terminal and generate animated gif images or share a web player
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
-- [Asciinema](https://asciinema.org/) - It helps to record terminal sessions and sharing them on the web without screen capture. 
 
 ## Other Tools
 *Other useful tools for presentations*
-- [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
 - [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
+- [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 - [Sessionize](https://sessionize.com/) - The smart way to manage Call for Papers, Speakers and Agenda for your conference. Cloud based, safe and easy.
-- [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams.
 
 ## Sharing Platforms
 *Social Networks, Sharing Platforms, ...*
@@ -49,6 +49,10 @@
 
 ## Learning Platforms
 - [Katacoda](https://katacoda.com/) - Create online self-paced learning resources in virtual environment to test software. 
+
+## Streaming and Webinar Platform
+- [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams.
+- [Zoom.us](https://zoom.us/) - Enterprise video conferencing with real-time messaging and content sharing
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*

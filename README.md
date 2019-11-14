@@ -10,6 +10,7 @@
     - [Other Tools](#other-tools)
     - [Platforms](#platforms)
     - [Sharing Platforms](#sharing-platforms)
+    - [Learning Platforms](#learning-platforms)
     - [Blogs and Tutorials](#blogs-and-tutorials)
     - [Communities](#communities)    
 
@@ -28,14 +29,17 @@
 - [Code Surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code.
 - [Terminalizer](https://terminalizer.com/) - Record your terminal and generate animated gif images or share a web player
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
+- [Asciinema](https://asciinema.org/) - It helps to record terminal sessions and sharing them on the web without screen capture. 
 
 ## Other Tools
 *Other useful tools for presentations*
 - [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
+- [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 - [Sessionize](https://sessionize.com/) - The smart way to manage Call for Papers, Speakers and Agenda for your conference. Cloud based, safe and easy.
+- [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams.
 
 ## Sharing Platforms
 *Social Networks, Sharing Platforms, ...*
@@ -43,10 +47,14 @@
 - [SlideShare](https://www.slideshare.net/) - Share what you know and love through presentations, infographics, documents and more.
 - [Speaker Deck](https://speakerdeck.com/) - Share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience.
 
+## Learning Platforms
+- [Katacoda](https://katacoda.com/) - Create online self-paced learning resources in virtual environment to test software. 
+
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*
 - [Ideas for making better conference talks & conferences](https://jvns.ca/blog/2016/06/06/make-better-conference-talks/) - 
 How to make better conference talks & conferences by Julia Evans
+- [Speaking.io](https://speaking.io/) - A complete collection of articles and best practices about public speaking.
 
 ## Communities
 *Thematic Communities around the world*

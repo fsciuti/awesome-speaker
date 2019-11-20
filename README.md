@@ -59,6 +59,7 @@
 - [Ideas for making better conference talks & conferences](https://jvns.ca/blog/2016/06/06/make-better-conference-talks/) - 
 How to make better conference talks & conferences by Julia Evans
 - [Speaking.io](https://speaking.io/) - A complete collection of articles and best practices about public speaking.
+- [Introduction to Public Speaking](https://www.coursera.org/learn/public-speaking) - Coursera
 
 ## Communities
 *Thematic Communities around the world*

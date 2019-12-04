@@ -56,6 +56,7 @@
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*
+- [How to Give Great Technical Presentations](https://dev.to/stephenfluin/how-to-give-great-technical-presentations-2j76)
 - [Ideas for making better conference talks & conferences](https://jvns.ca/blog/2016/06/06/make-better-conference-talks/) - 
 How to make better conference talks & conferences by Julia Evans
 - [Introduction to Public Speaking](https://www.coursera.org/learn/public-speaking) - Coursera

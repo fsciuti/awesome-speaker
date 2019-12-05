@@ -21,6 +21,7 @@
 - [Marp](https://marp.app/) - Marp, Markdown Presentation Ecosystem, provides the great experience to create beautiful slide deck.
 - [MDX-Deck](https://github.com/jxnblk/mdx-deck) - Award-winning React MDX-based presentation decks.
 - [patat](https://github.com/jaspervdj/patat) - patat (Presentations Atop The ANSI Terminal) is a small tool written in Haskell that allows you to show presentations using only an ANSI terminal.
+- [prexent](https://github.com/fiqus/prexent) - Create fast, live and beautiful presentations from Markdown powered by Phoenix LiveView with the ability to run and edit live code (for languages you have the interpreter for).
 - [RevealJS](https://revealjs.com/) - A framework for easily creating beautiful presentations using HTML.
 - [Slides.com](https://slides.com/) - Slides is a suite of modern presentation tools, available right from your browser.
 

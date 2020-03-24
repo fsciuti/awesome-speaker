@@ -41,6 +41,7 @@
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 - [Sessionize](https://sessionize.com/) - The smart way to manage Call for Papers, Speakers and Agenda for your conference. Cloud based, safe and easy.
+- [Sli.do](https://www.sli.do/) - Empower your audience to ask questions, vote in polls and be a part of the discussion by using a simple Q&A and polling tool.
 
 ## Sharing Platforms
 *Social Networks, Sharing Platforms, ...*
@@ -54,6 +55,7 @@
 ## Streaming and Webinar Platform
 - [Streamyard](https://streamyard.com/) - The easiest way to create professional live streams.
 - [Zoom.us](https://zoom.us/) - Enterprise video conferencing with real-time messaging and content sharing
+- [GoToMeeting](https://www.gotomeeting.com/en-gb) -  Seamless video meetings with up to 250 participants
 
 ## Blogs and Tutorials
 *News, Tutorials, Tips & Tricks, Best Practices, ...*

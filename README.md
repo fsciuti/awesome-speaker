@@ -67,9 +67,11 @@ How to make better conference talks & conferences by Julia Evans
 - [Presentation Skills](https://presentationskills.me/) -  A website to make our presentation skills rock!
 - [Speaking.io](https://speaking.io/) - A complete collection of articles and best practices about public speaking.
 
+## Misc
+- [Droplets for Demos](https://www.digitalocean.com/droplets-for-demos/) - Free Digital Ocean infrastructure credits to power your tech demo
+
 ## Communities
 *Thematic Communities around the world*
-
 
 ---
 This work is licensed under a [Creative Commons Attribution 4.0 International

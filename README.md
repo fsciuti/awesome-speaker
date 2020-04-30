@@ -32,6 +32,7 @@
 - [Code Surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code.
 - [Terminalizer](https://terminalizer.com/) - Record your terminal and generate animated gif images or share a web player
 - [ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
+- [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Highligth your code and paste everywhere!
 
 ## Other Tools
 *Other useful tools for presentations*

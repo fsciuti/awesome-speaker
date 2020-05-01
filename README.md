@@ -38,6 +38,8 @@
 *Other useful tools for presentations*
 - [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
 - [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
+- [Chrome Canvas](https://canvas.apps.chrome/) - A simple white canvas...free your imagination!
+- [Photopea](https://photopea.com) - Advanced and free online photo editor.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*

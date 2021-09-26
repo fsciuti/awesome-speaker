@@ -44,6 +44,7 @@
 - [Photopea](https://photopea.com) - Advanced and free online photo editor.
 - [Loom](https://www.loom.com) - Capture your screen, voice, and face and instantly share your video in less time than it would take to type an email.
 - [Krisp](https://krisp.ai) - Mute background noise in any communication app.
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Create diagrams and visualizations using text and code.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*

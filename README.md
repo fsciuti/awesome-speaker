@@ -26,6 +26,7 @@
 - [RevealJS](https://revealjs.com/) - A framework for easily creating beautiful presentations using HTML.
 - [Slides.com](https://slides.com/) - Slides is a suite of modern presentation tools, available right from your browser.
 - [Spectacle](https://formidable.com/open-source/spectacle/) - A React.js based library for creating presentations using JSX syntax.
+- [Slidev](https://sli.dev/) - Presentation Slides for Developers
 
 ## Source Code Tools
 *Code embedding tools, images generators, ...*

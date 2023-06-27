@@ -17,7 +17,7 @@
 
 ## Presentation Editors
 *Online Editors, Presentation Frameworks, Markdown-driven Slideshows, Slide Tools,...*
-- [GitPitch](https://gitpitch.com/) - Markdown Presentations for Tech Conferences, Meetups, and Training.
+- [GitPitch](https://gitpitch.github.io/gitpitch) - Markdown Presentations for Tech Conferences, Meetups, and Training.
 - [Google Slides](https://www.google.it/intl/en/slides/about/) - With Google Slides, you can create, edit, collaborate, and present wherever you are.
 - [Marp](https://marp.app/) - Marp, Markdown Presentation Ecosystem, provides the great experience to create beautiful slide deck.
 - [MDX-Deck](https://github.com/jxnblk/mdx-deck) - Award-winning React MDX-based presentation decks.

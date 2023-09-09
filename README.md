@@ -79,6 +79,7 @@ How to make better conference talks & conferences by Julia Evans
 
 ## Misc
 - [Droplets for Demos](https://www.digitalocean.com/droplets-for-demos/) - Free Digital Ocean infrastructure credits to power your tech demo
+- [Heroku - Free plan on PaaS for Demos](https://www.heroku.com/) - Free nodes on Heroku, fully integrated with GitHub, in order to release your demo projects
 
 ## Communities
 *Thematic Communities around the world*

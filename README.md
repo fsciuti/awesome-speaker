@@ -27,6 +27,7 @@
 - [Slides.com](https://slides.com/) - Slides is a suite of modern presentation tools, available right from your browser.
 - [Slidev](https://sli.dev/) - Presentation Slides for Developers
 - [Spectacle](https://formidable.com/open-source/spectacle/) - A React.js based library for creating presentations using JSX syntax.
+- [SliDesk](https://slidesk.link) - A modular presentation tool, with plugins, themes, ...
 
 ## Source Code Tools
 *Code embedding tools, images generators, ...*
@@ -59,6 +60,7 @@
 - [SlideServe](https://www.slideserve.com) - Upload and Share Presentations Online.
 - [SlideShare](https://www.slideshare.net/) - Share what you know and love through presentations, infographics, documents and more.
 - [Speaker Deck](https://speakerdeck.com/) - Share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience.
+- [slidesk.link](https://slidesk.link) - A page to share your talks and sessions
 
 ## Learning Platforms
 - [Katacoda](https://katacoda.com/) - Create online self-paced learning resources in virtual environment to test software. 

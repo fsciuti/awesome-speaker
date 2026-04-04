@@ -5,15 +5,17 @@
 
 ## Table of Contents
 - [Awesome Speaker](#awesome-speaker)
-    - [Presentation Editors](#presentation-editors)
-    - [Source Code Tools](#source-code-tools)
-    - [Other Tools](#other-tools)
-    - [Platforms](#platforms)
-    - [Sharing Platforms](#sharing-platforms)
-    - [Learning Platforms](#learning-platforms)
-    - [Streaming and Webinar Platform](#streaming-and-webinar-platform)
-    - [Blogs and Tutorials](#blogs-and-tutorials)
-    - [Communities](#communities)    
+  - [Table of Contents](#table-of-contents)
+  - [Presentation Editors](#presentation-editors)
+  - [Source Code Tools](#source-code-tools)
+  - [Other Tools](#other-tools)
+  - [Platforms](#platforms)
+  - [Sharing Platforms](#sharing-platforms)
+  - [Learning Platforms](#learning-platforms)
+  - [Streaming and Webinar Platform](#streaming-and-webinar-platform)
+  - [Blogs and Tutorials](#blogs-and-tutorials)
+  - [Misc](#misc)
+  - [Communities](#communities)
 
 ## Presentation Editors
 *Online Editors, Presentation Frameworks, Markdown-driven Slideshows, Slide Tools,...*
@@ -41,12 +43,13 @@
 ## Other Tools
 *Other useful tools for presentations*
 - [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
-- [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
 - [Chrome Canvas](https://canvas.apps.chrome/) - A simple white canvas...free your imagination!
-- [Photopea](https://photopea.com) - Advanced and free online photo editor.
-- [Loom](https://www.loom.com) - Capture your screen, voice, and face and instantly share your video in less time than it would take to type an email.
 - [Krisp](https://krisp.ai) - Mute background noise in any communication app.
+- [Loom](https://www.loom.com) - Capture your screen, voice, and face and instantly share your video in less time than it would take to type an email.
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Create diagrams and visualizations using text and code.
+- [Photopea](https://photopea.com) - Advanced and free online photo editor.
+- [Speaking Time Calculator](https://speakingtimecalculator.com) — Free tool that estimates speech duration from text speech with real-time updates, built-in speaking speed measurement, multi-section timing, and adjustable pause time.
+- [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*

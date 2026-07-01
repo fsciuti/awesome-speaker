@@ -22,6 +22,7 @@
 - [GitPitch](https://gitpitch.github.io/gitpitch) - Markdown Presentations for Tech Conferences, Meetups, and Training.
 - [Google Slides](https://www.google.it/intl/en/slides/about/) - With Google Slides, you can create, edit, collaborate, and present wherever you are.
 - [Marp](https://marp.app/) - Marp, Markdown Presentation Ecosystem, provides the great experience to create beautiful slide deck.
+- [MDPR](https://github.com/ch040602/MdPr) - Deterministic Markdown-to-editable-PowerPoint runtime with HTML/PDF previews, visual validation, and optional [mdpr-skill](https://github.com/ch040602/mdpr-skill) Codex review hints.
 - [MDX-Deck](https://github.com/jxnblk/mdx-deck) - Award-winning React MDX-based presentation decks.
 - [patat](https://github.com/jaspervdj/patat) - patat (Presentations Atop The ANSI Terminal) is a small tool written in Haskell that allows you to show presentations using only an ANSI terminal.
 - [prexent](https://github.com/fiqus/prexent) - Create fast, live and beautiful presentations from Markdown powered by Phoenix LiveView with the ability to run and edit live code (for languages you have the interpreter for).

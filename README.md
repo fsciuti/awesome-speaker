@@ -49,6 +49,7 @@
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Create diagrams and visualizations using text and code.
 - [Photopea](https://photopea.com) - Advanced and free online photo editor.
 - [Presentation Design Prompts](https://github.com/SlideSpeak/presentation-design-prompts) - 56 open-source slide-design prompts for ChatGPT and Claude, each a full deck theme with a pinned color palette, fonts, and layout rules.
+- [RunCue](https://runcue.fly.dev/launch) - Browser-based speaker timer: the speaker sees a full-screen countdown, the producer runs the clock and private cues from a separate screen. No permanent free plan — a 15-minute no-card trial, then paid.
 - [Speaking Time Calculator](https://speakingtimecalculator.com) — Free tool that estimates speech duration from text speech with real-time updates, built-in speaking speed measurement, multi-section timing, and adjustable pause time.
 - [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
 

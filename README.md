@@ -51,6 +51,7 @@
 - [Presentation Design Prompts](https://github.com/SlideSpeak/presentation-design-prompts) - 56 open-source slide-design prompts for ChatGPT and Claude, each a full deck theme with a pinned color palette, fonts, and layout rules.
 - [Speaking Time Calculator](https://speakingtimecalculator.com) — Free tool that estimates speech duration from text speech with real-time updates, built-in speaking speed measurement, multi-section timing, and adjustable pause time.
 - [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Adds highlights to text on web pages with this Chrome Extension, and tries to restore them on subsequent visits.
+- [Unprompted Topic Generator](https://unpromptedtopicgenerator.com/) - Browser-based impromptu speaking practice with 150 curated prompts and built-in preparation and speaking timers.
 
 ## Platforms
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*

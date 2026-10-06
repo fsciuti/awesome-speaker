@@ -81,6 +81,7 @@
 How to make better conference talks & conferences by Julia Evans
 - [Introduction to Public Speaking](https://www.coursera.org/learn/public-speaking) - Coursera
 - [Presentation Skills](https://presentationskills.me/) -  A website to make our presentation skills rock!
+- [Screen-Share Pointer Checklist](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - Distinguish a physical laser dot from shared-slide annotations and rehearse the remote audience view in Zoom or Teams.
 - [Speaking.io](https://speaking.io/) - A complete collection of articles and best practices about public speaking.
 
 ## Misc

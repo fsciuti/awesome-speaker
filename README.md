@@ -56,6 +56,7 @@
 *Conference Managers, Call for Speakers Managers, Ticket Managers, ...*
 - [Claper](https://claper.co/) - The ultimate tool to interact with your audience. An open-source alternative to Slido, AhaSlides and Mentimeter.
 - [PaperCall](https://www.papercall.io/) - PaperCall enables event organizers and speakers to easily manage their call for papers and talk submissions.
+- [RiLiFi](https://rilifi.com) - Run live polls, Q&A, quizzes and spin wheels during a talk. The audience joins from their phones with a PIN or QR code, no app to install.
 - [Sessionize](https://sessionize.com/) - The smart way to manage Call for Papers, Speakers and Agenda for your conference. Cloud based, safe and easy.
 - [Sli.do](https://www.sli.do/) - Empower your audience to ask questions, vote in polls and be a part of the discussion by using a simple Q&A and polling tool.
 

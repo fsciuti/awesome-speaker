@@ -43,6 +43,7 @@
 ## Other Tools
 *Other useful tools for presentations*
 - [Binder](https://mybinder.org/) - Transform a github repository into a set of interactive Jupyther Notebooks.
+- [Burncaps Teleprompter](https://burncaps.app/free-online-teleprompter?utm_source=awesomespeaker) - Free browser teleprompter: paste a script, set the speed in words a minute, mirror it for a teleprompter glass and read it full screen on a phone or a computer. It does not record, listen or follow your voice, and the script is never sent or saved.
 - [Chrome Canvas](https://canvas.apps.chrome/) - A simple white canvas...free your imagination!
 - [Krisp](https://krisp.ai) - Mute background noise in any communication app.
 - [Loom](https://www.loom.com) - Capture your screen, voice, and face and instantly share your video in less time than it would take to type an email.

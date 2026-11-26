@@ -47,6 +47,7 @@
 - [Krisp](https://krisp.ai) - Mute background noise in any communication app.
 - [Loom](https://www.loom.com) - Capture your screen, voice, and face and instantly share your video in less time than it would take to type an email.
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Create diagrams and visualizations using text and code.
+- [Mouse Jiggler for Mac](https://mousejigglermac.com/) - Menu bar app that keeps a Mac awake during presentations, live streams and long downloads, with or without moving the cursor. Free on the [Mac App Store](https://apps.apple.com/app/id6740313656) with an optional one-time PRO purchase.
 - [Photopea](https://photopea.com) - Advanced and free online photo editor.
 - [Presentation Design Prompts](https://github.com/SlideSpeak/presentation-design-prompts) - 56 open-source slide-design prompts for ChatGPT and Claude, each a full deck theme with a pinned color palette, fonts, and layout rules.
 - [Speaking Time Calculator](https://speakingtimecalculator.com) — Free tool that estimates speech duration from text speech with real-time updates, built-in speaking speed measurement, multi-section timing, and adjustable pause time.
